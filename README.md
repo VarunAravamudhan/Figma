@@ -174,19 +174,23 @@ Figma
 # OUTPUT:
 ## Home
 
-![alt text](image.png)
+<img width="657" height="866" alt="image" src="https://github.com/user-attachments/assets/6ae3ada4-7f30-48c7-bcad-92f68f4a792d" />
+
 
 ## Event
 
-![alt text](image-1.png)
+<img width="563" height="862" alt="image" src="https://github.com/user-attachments/assets/64136cf4-778d-474a-b63c-8da5f171142c" />
+
 
 ## Register
 
-![alt text](image-2.png)
+<img width="696" height="875" alt="image" src="https://github.com/user-attachments/assets/d1ae4c97-3a6b-4a20-b854-0d94548c8491" />
+
 
 ## Contact
 
-![alt text](image-3.png)
+<img width="608" height="872" alt="image" src="https://github.com/user-attachments/assets/ed5dafd4-d265-4ffc-83af-f361050068b4" />
+
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
